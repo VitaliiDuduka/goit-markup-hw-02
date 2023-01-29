@@ -204,11 +204,26 @@ font-weight: 800;
     text-align: center;
     letter-spacing: 0.04em;
     color: #4D5AE5;
+    cursor: pointer;
 }
 .portf-btn:hover,
 .portf-btn:focus {
     background-color: #404BBF;
     color: #FFFFFF;
 }
-.portf-btn {
+.project-list list{
+
+}
+.project-title{
+font-weight: 500;
+    font-size: 20px;
+    line-height: calc(24/20);
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.project-text{
+    font-size: 16px;
+    line-height: calc(24/16);
+    letter-spacing: 0.02em;
+    color: #434455;
 }
